@@ -1,3 +1,5 @@
 ## Coronavirus Disease Ideas
 
-Ideas to solve the Coronavirus Disease side effects
+A list of ideas to solve the Coronavirus Disease side effects
+
+
